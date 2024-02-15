@@ -28,7 +28,6 @@ header {
     display: flex;
     flex-direction: row;
     align-items: flex-start;
-    padding: 24px 20px;
     gap: 168px;
     background-color:rgba(0, 0, 0, 1);
 }
@@ -108,8 +107,6 @@ header {
     font-size: 16px;
     line-height: 120%;
     color:rgba(204, 204, 204, 1);
-    width: 101px;
-    height: 19px;
     align-items: flex-end;
 }
 .intro__main-text {
@@ -190,7 +187,6 @@ header {
     flex: none;
     order: 1;
     flex-grow: 1;
-    color: #131313;
 }
 .how-to {
     min-height: 1749px;
