@@ -128,8 +128,8 @@ header {
     padding: 40px 20px;
     background-color: #FEE42A;
 }
-.content-section__subtitle {
-    width: 320px;  
+.content-section__subtitle { 
+    width: 320px; 
     font-family: 'EB Garamond';
     font-style: normal;
     font-weight: 500;
@@ -218,7 +218,7 @@ header {
     font-style: normal;
     font-weight: 500;
     font-size: 28px; 
-    color: #F5F5F5;
+    color:#F5F5F5;
     line-height: 115%;
 }
 .content-section__introduction__how-to {
