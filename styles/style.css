@@ -213,7 +213,7 @@ header {
     color: #F5F5F5;
 }
 .accent-span-how-to {
-    display:block;
+    display: block;
     font-family: 'EB Garamond';
     font-style: normal;
     font-weight: 500;
@@ -230,11 +230,11 @@ header {
     color: #F5F5F5;
     padding: 32px 0;
 }
-.card__author-photo{
+.card__author-photo {
     width: 100px;
     height: 100px;
 }
-.card__author-name{
+.card__author-name {
     font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
@@ -330,6 +330,7 @@ footer {
     border-top: 1px solid #FEE42A;
     background-color: rgba(0, 0, 0, 1);
 }
+
 .footer__copy { 
     font-family: 'Inter';
     font-style: normal;
