@@ -128,6 +128,7 @@ header {
     padding: 40px 20px;
     background-color: #FEE42A;
 }
+
 .content-section__subtitle {
     width: 320px;  
     font-family: 'EB Garamond';
@@ -216,6 +217,7 @@ header {
     display: block;
     font-family: 'EB Garamond';
     font-style: normal;
+    
     font-weight: 500;
     font-size: 28px; 
     color: #F5F5F5;
