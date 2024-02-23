@@ -1,0 +1,123 @@
+/* footer */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 20px;
+
+position: absolute;
+width: 360px;
+height: 62px;
+left: 0px;
+top: 4098px;
+
+/* yellow-bg */
+border-top: 1px solid #FEE42A;
+
+
+/* © VЁRSTKA */
+
+margin: 0 auto;
+width: 92px;
+height: 22px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 135%;
+/* identical to box height, or 22px */
+
+color: #F5F5F5;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* socials */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+margin: 0 auto;
+width: 73px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* ВК */
+
+width: 19px;
+height: 18px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 125%;
+/* identical to box height, or 18px */
+
+color: #F5F5F5;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ютуб */
+
+width: 38px;
+height: 18px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 125%;
+/* identical to box height, or 18px */
+
+color: #F5F5F5;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+/* © VЁRSTKA */
+
+margin: 0 auto;
+width: 92px;
+height: 22px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 135%;
+/* identical to box height, or 22px */
+
+color: #F5F5F5;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
